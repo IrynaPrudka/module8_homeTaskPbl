@@ -1,0 +1,5 @@
+# no .db files
+*.db
+
+# no .log files
+*.log
